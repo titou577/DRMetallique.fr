@@ -897,7 +897,7 @@ export default function App() {
                   </div>
                   <div className="pt-1">
                     <span className="block text-white text-sm font-bold mb-1">Siège Social</span>
-                    <span className="text-zinc-400 text-sm leading-relaxed block group-hover:text-zinc-300 transition-colors">2 Avenue Maurice Ravel<br/>69000 Lyon, France</span>
+                    <span className="text-zinc-400 text-sm leading-relaxed block group-hover:text-zinc-300 transition-colors">2 Avenue Maurice Ravel<br/>71880 Châtenoy-le-Royal, France</span>
                   </div>
                 </li>
                 <li className="flex items-start gap-4 group">
